@@ -1,2 +1,2 @@
-# Data-Manipulation
-This repo contains implementations of data manipulation libraries like NumPy and Pandas with Python3.
+# NumPy-Data-Manipulation
+This repo contains implementations of NumPy data manipulation library with Python3.
